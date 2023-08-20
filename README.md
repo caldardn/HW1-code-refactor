@@ -8,8 +8,7 @@ link: https://caldardn.github.io/HW1-code-refactor/
 
 ## Usage
 <img src="/assets/images/01-html-css-git-homework-demo.png"
-alt="Web application's appearance and functionality"
->
+alt="Web application's appearance and functionality">
 
 ## Credits
 
