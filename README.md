@@ -7,7 +7,7 @@ This is the week one challenge assignment to refactor given code to make more se
 link: https://caldardn.github.io/HW1-code-refactor/
 
 ## Usage
-<img src="./assets/images/01-html-css-git-homework-demo.png"
+<img src="/assets/images/01-html-css-git-homework-demo.png"
 alt="Web application's appearance and functionality"
 >
 
