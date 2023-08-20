@@ -7,10 +7,10 @@ This is the week one challenge assignment to refactor given code to make more se
 link: https://caldardn.github.io/HW1-code-refactor/
 
 ## Usage
+<img src="./assets/images/01-html-css-git-homework-demo.png"
+alt="Web application's appearance and functionality"
+>
 
-```md
-![Web application's appearance and functionality](assets/images/01-html-css-git-homework-demo.png)
-```
 ## Credits
 
 edX Boot Camps LLC. (2022, October 27). Professional readme guide. Professional README Guide | The Full-Stack Blog. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
